@@ -2,7 +2,7 @@
 
 Internal: Security → Caching; Notifications → Contracts (older pin possible). Tests → Testing project.
 
-FlexForms consumption (typical; pins drift):
+FlexForms consumption (pins drift; exact versions per consumer on 2026-11-17 are in [`ecosystem.md`](ecosystem.md) section 8. Note the API still pins the pre-.NET-10 majors of Security 1.1.x, Caching 1.0.x and Messaging 0.1.x while Web, scanner and ClamAV are on 2.x / 1.x):
 
 | Package | api | web | prism |
 |---------|-----|-----|-------|
